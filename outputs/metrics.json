@@ -1,0 +1,367 @@
+{
+  "hazard_model": {
+    "precision": 0.913,
+    "recall": 0.856,
+    "f1": 0.884,
+    "roc_auc": 0.981
+  },
+  "benchmark": {
+    "maps": 20,
+    "safe_path_found": 20,
+    "hazard_cells_crossed": {
+      "shortest": 29.1,
+      "safe": 0.3
+    },
+    "max_slope_deg": {
+      "shortest": 35.4,
+      "safe": 11.9
+    },
+    "length_m": {
+      "shortest": 833.8,
+      "safe": 958.3
+    },
+    "extra_distance_pct": 14.9
+  },
+  "per_map": [
+    {
+      "seed": 100,
+      "safe": {
+        "reachable": true,
+        "length_m": 929.3,
+        "max_slope_deg": 9.1,
+        "mean_slope_deg": 3.1,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 33.8,
+        "mean_slope_deg": 5.7,
+        "hazard_cells_crossed": 13
+      }
+    },
+    {
+      "seed": 101,
+      "safe": {
+        "reachable": true,
+        "length_m": 870.7,
+        "max_slope_deg": 9.0,
+        "mean_slope_deg": 3.7,
+        "hazard_cells_crossed": 1
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 11.5,
+        "mean_slope_deg": 4.3,
+        "hazard_cells_crossed": 4
+      }
+    },
+    {
+      "seed": 102,
+      "safe": {
+        "reachable": true,
+        "length_m": 981.0,
+        "max_slope_deg": 9.2,
+        "mean_slope_deg": 3.6,
+        "hazard_cells_crossed": 1
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 30.1,
+        "mean_slope_deg": 7.1,
+        "hazard_cells_crossed": 15
+      }
+    },
+    {
+      "seed": 103,
+      "safe": {
+        "reachable": true,
+        "length_m": 976.2,
+        "max_slope_deg": 11.2,
+        "mean_slope_deg": 4.0,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 41.0,
+        "mean_slope_deg": 10.8,
+        "hazard_cells_crossed": 32
+      }
+    },
+    {
+      "seed": 104,
+      "safe": {
+        "reachable": true,
+        "length_m": 945.9,
+        "max_slope_deg": 17.5,
+        "mean_slope_deg": 4.0,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 857.3,
+        "max_slope_deg": 31.7,
+        "mean_slope_deg": 8.8,
+        "hazard_cells_crossed": 33
+      }
+    },
+    {
+      "seed": 105,
+      "safe": {
+        "reachable": true,
+        "length_m": 925.2,
+        "max_slope_deg": 19.1,
+        "mean_slope_deg": 4.1,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 846.1,
+        "max_slope_deg": 34.0,
+        "mean_slope_deg": 10.2,
+        "hazard_cells_crossed": 42
+      }
+    },
+    {
+      "seed": 106,
+      "safe": {
+        "reachable": true,
+        "length_m": 897.6,
+        "max_slope_deg": 14.2,
+        "mean_slope_deg": 3.6,
+        "hazard_cells_crossed": 1
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 840.7,
+        "max_slope_deg": 30.6,
+        "mean_slope_deg": 8.3,
+        "hazard_cells_crossed": 13
+      }
+    },
+    {
+      "seed": 107,
+      "safe": {
+        "reachable": true,
+        "length_m": 770.5,
+        "max_slope_deg": 19.6,
+        "mean_slope_deg": 3.9,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 668.5,
+        "max_slope_deg": 41.1,
+        "mean_slope_deg": 9.5,
+        "hazard_cells_crossed": 37
+      }
+    },
+    {
+      "seed": 108,
+      "safe": {
+        "reachable": true,
+        "length_m": 937.6,
+        "max_slope_deg": 7.6,
+        "mean_slope_deg": 3.7,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 23.2,
+        "mean_slope_deg": 6.9,
+        "hazard_cells_crossed": 15
+      }
+    },
+    {
+      "seed": 109,
+      "safe": {
+        "reachable": true,
+        "length_m": 957.6,
+        "max_slope_deg": 8.1,
+        "mean_slope_deg": 3.4,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 37.9,
+        "mean_slope_deg": 6.3,
+        "hazard_cells_crossed": 27
+      }
+    },
+    {
+      "seed": 110,
+      "safe": {
+        "reachable": true,
+        "length_m": 1027.9,
+        "max_slope_deg": 7.8,
+        "mean_slope_deg": 3.3,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 41.3,
+        "mean_slope_deg": 10.5,
+        "hazard_cells_crossed": 55
+      }
+    },
+    {
+      "seed": 111,
+      "safe": {
+        "reachable": true,
+        "length_m": 971.5,
+        "max_slope_deg": 8.8,
+        "mean_slope_deg": 4.1,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 39.8,
+        "mean_slope_deg": 13.3,
+        "hazard_cells_crossed": 44
+      }
+    },
+    {
+      "seed": 112,
+      "safe": {
+        "reachable": true,
+        "length_m": 976.9,
+        "max_slope_deg": 12.2,
+        "mean_slope_deg": 3.4,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 38.7,
+        "mean_slope_deg": 9.0,
+        "hazard_cells_crossed": 26
+      }
+    },
+    {
+      "seed": 113,
+      "safe": {
+        "reachable": true,
+        "length_m": 1022.0,
+        "max_slope_deg": 9.1,
+        "mean_slope_deg": 3.8,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 33.4,
+        "mean_slope_deg": 9.4,
+        "hazard_cells_crossed": 30
+      }
+    },
+    {
+      "seed": 114,
+      "safe": {
+        "reachable": true,
+        "length_m": 944.0,
+        "max_slope_deg": 14.6,
+        "mean_slope_deg": 3.3,
+        "hazard_cells_crossed": 1
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 38.5,
+        "mean_slope_deg": 7.0,
+        "hazard_cells_crossed": 28
+      }
+    },
+    {
+      "seed": 115,
+      "safe": {
+        "reachable": true,
+        "length_m": 1088.4,
+        "max_slope_deg": 9.0,
+        "mean_slope_deg": 3.1,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 49.1,
+        "mean_slope_deg": 13.9,
+        "hazard_cells_crossed": 58
+      }
+    },
+    {
+      "seed": 116,
+      "safe": {
+        "reachable": true,
+        "length_m": 929.3,
+        "max_slope_deg": 10.3,
+        "mean_slope_deg": 2.9,
+        "hazard_cells_crossed": 3
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 37.2,
+        "mean_slope_deg": 9.3,
+        "hazard_cells_crossed": 38
+      }
+    },
+    {
+      "seed": 117,
+      "safe": {
+        "reachable": true,
+        "length_m": 1065.7,
+        "max_slope_deg": 18.5,
+        "mean_slope_deg": 3.8,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 42.0,
+        "mean_slope_deg": 9.5,
+        "hazard_cells_crossed": 22
+      }
+    },
+    {
+      "seed": 118,
+      "safe": {
+        "reachable": true,
+        "length_m": 943.5,
+        "max_slope_deg": 10.3,
+        "mean_slope_deg": 3.3,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 33.6,
+        "mean_slope_deg": 8.7,
+        "hazard_cells_crossed": 21
+      }
+    },
+    {
+      "seed": 119,
+      "safe": {
+        "reachable": true,
+        "length_m": 1005.5,
+        "max_slope_deg": 13.7,
+        "mean_slope_deg": 3.8,
+        "hazard_cells_crossed": 0
+      },
+      "shortest": {
+        "reachable": true,
+        "length_m": 841.5,
+        "max_slope_deg": 39.4,
+        "mean_slope_deg": 9.9,
+        "hazard_cells_crossed": 28
+      }
+    }
+  ]
+}
